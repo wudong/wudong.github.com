@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-<<<<<<< HEAD
-   <feature url="features/com.dongluhitec.dependency_1.0.0.201206112306.jar" id="com.dongluhitec.dependency" version="1.0.0.201206112306"/>
-=======
-   <feature url="features/com.dongluhitec.dependency_1.0.0.201206111729.jar" id="com.dongluhitec.dependency" version="1.0.0.201206111729"/>
->>>>>>> 58332abf53365c2642302e32ca99ad7fdad9326b
+   <feature url="features/com.dongluhitec.dependency_1.0.0.201206121615.jar" id="com.dongluhitec.dependency" version="1.0.0.201206121615"/>
 </site>
